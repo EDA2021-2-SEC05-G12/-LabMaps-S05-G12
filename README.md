@@ -1,3 +1,6 @@
+Alejandro Hernández 202111716-
+Luisa Hernández 202114093.  Las preguntas fueron hechas de forma conjunta.
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
